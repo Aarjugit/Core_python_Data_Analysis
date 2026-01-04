@@ -1,0 +1,11 @@
+Users and their connections: 
+Arush has friends with User_Id's: [2, 3] and Liked Pages with page_Id's:[101]
+Priyanka has friends with User_Id's: [1, 4] and Liked Pages with page_Id's:[102]
+Sarla has friends with User_Id's: [2] and Liked Pages with page_Id's:[104]
+Sarla has friends with User_Id's: [2] and Liked Pages with page_Id's:[104]
+
+ Page Information: 
+Page ID: 101, Page Name: Python Developers
+Page ID: 102, Page Name: Data Science Enthusiasts
+Page ID: 103, Page Name: AI & ML Community
+Page ID: 104, Page Name: Web Development
